@@ -1,0 +1,320 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.5rem;
+}.iphone-11-pro-x-16-TV1 {
+  box-sizing: border-box;
+  padding-left: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #f8fbff;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX {
+  margin: 0rem 82.1rem 1.5rem 0rem;
+  width: 33.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb {
+  box-sizing: border-box;
+  padding: 0rem 0rem 2rem 0.1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb .auto-group-vrm9-2Aj {
+  margin: 0rem 1.2rem 2.7rem 9.1rem;
+  width: calc(100% - 10.3rem);
+  height: 6.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb .auto-group-vrm9-2Aj .auto-group-hygf-YPy {
+  margin-right: 7.7rem;
+  width: 12.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb .auto-group-vrm9-2Aj .auto-group-hygf-YPy .silver-oak-food-park-gWB {
+  width: 12.8rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  letter-spacing: -0.072rem;
+  color: #360000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb .auto-group-vrm9-2Aj .auto-group-hygf-YPy .silver-oak-food-park-uGT {
+  width: 12.8rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  letter-spacing: -0.072rem;
+  color: #360000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb .auto-group-vrm9-2Aj .auto-group-hygf-YPy .silver-oak-food-park-1aP {
+  width: 12.8rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  letter-spacing: -0.072rem;
+  color: #360000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb .auto-group-vrm9-2Aj .skip-vST {
+  margin-bottom: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.523000036;
+  text-decoration-line: underline;
+  color: #fa5a1e;
+  font-family: Sk-Modernist, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb .create-an-account-drf {
+  margin: 0rem 8.1rem 1.4rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  letter-spacing: -0.072rem;
+  color: #1b1b1b;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb .welcome-friend-enter-your-details-so-lets-get-started-in-ordering-food-9a7 {
+  margin: 0rem 2.7rem 5rem 0rem;
+  max-width: 26.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #3c3c3c;
+  font-family: Sk-Modernist, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb .form-dkB {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb .form-dkB .title-avK {
+  margin: 0rem 0rem 0.9rem 2.3rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3700000445;
+  color: #3c3c3c;
+  font-family: Sk-Modernist, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb .form-dkB .form-JLX {
+  box-sizing: border-box;
+  padding: 1.5rem 2.3rem;
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3700000218;
+  color: #a9abae;
+  font-family: Sk-Modernist, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #dee2e5;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb .form-aYw {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb .form-aYw .title-jwd {
+  margin: 0rem 0rem 0.9rem 2.3rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3700000445;
+  color: #3c3c3c;
+  font-family: Sk-Modernist, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb .form-aYw .form-sH9 {
+  box-sizing: border-box;
+  padding: 1.5rem 2.3rem;
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3700000218;
+  color: #a9abae;
+  font-family: Sk-Modernist, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #dee2e5;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb .form-wno {
+  margin-bottom: 8.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb .form-wno .title-W5D {
+  margin: 0rem 0rem 0.9rem 2.3rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3700000445;
+  color: #3c3c3c;
+  font-family: Sk-Modernist, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb .form-wno .form-2ZM {
+  box-sizing: border-box;
+  padding: 1.5rem 2.3rem 1.8rem 2.3rem;
+  width: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3700000445;
+  color: #a9abae;
+  font-family: Sk-Modernist, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #dee2e5;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb .signup-with-google-WUX {
+  margin: 0 6.5rem;
+  box-sizing: border-box;
+  padding: 1.3rem 2.85rem 1.3rem 2.4rem;
+  width: calc(100% - 13rem);
+  height: 5rem;
+  box-shadow: 0 2rem 4rem rgba(2, 31, 44, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb .signup-with-google-WUX .group-403-Qpo {
+  box-sizing: border-box;
+  padding: 0.15rem 0rem 0.05rem 0.15rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb .signup-with-google-WUX .group-403-Qpo .google-9XV {
+  margin: 0rem 1.7rem 0.1rem 0rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .auto-group-vbq3-Vgb .signup-with-google-WUX .group-403-Qpo .sign-in-with-google-fkj {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.523000036;
+  letter-spacing: -0.014rem;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Sk-Modernist, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .group-458-Xnw {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .group-458-Xnw .button-6LF {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 5.1rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.523000036;
+  letter-spacing: -0.014rem;
+  color: #ffffff;
+  font-family: Sk-Modernist, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 1rem 3rem rgba(201, 66, 16, 0.1000000015);
+  background: linear-gradient(108.73deg, #f9871f 23.73%, #ff774c 79.34%);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .auto-group-went-apX .group-458-Xnw .button-uYb {
+  width: 100%;
+  height: 5.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #fe554a;
+  font-family: Sk-Modernist, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 1rem 3rem rgba(201, 66, 16, 0.1000000015);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.iphone-11-pro-x-16-TV1 .job-finder-app-1-AzK {
+  width: 97.4rem;
+  height: 409.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
